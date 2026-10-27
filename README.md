@@ -19,6 +19,7 @@ Tres datasets: planes (2), usuarios (4,000) y registros de uso (40,000), con inf
 
 ## Hallazgos
 ![Segmentos de clientes por nivel de uso](connectatel_segmentos-uso.png)
+
 *Clientes por nivel de uso.*
 
 - La cartera se reparte entre los planes Básico (2,595 clientes, 64.9%) y Premium (1,405, 35.1%).
